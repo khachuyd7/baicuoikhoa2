@@ -1,0 +1,1 @@
+const diem=prompt('Mời bạn nhập vào điểm')
